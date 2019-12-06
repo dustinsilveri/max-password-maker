@@ -7,3 +7,8 @@ kids to be safer, when going online.
 
 You will need python installed to use my sweet tool.
 I hope you enjoy this Password Maker.
+
+<p align="center">
+  <img src="https://github.com/dustinsilveri/max-password-maker/blob/master/Bad.png">
+  <img src="https://github.com/dustinsilveri/max-password-maker/blob/master/Good.png">
+</p>
